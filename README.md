@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Nadia Syailendra, an aspiring Data Analyst.
+I'm Nadia Syailendra, an aspiring Data Analyst.\
+Passionate to understand raw data and develop solutions that's aligned with user & business needs.
+
 
 ### About Me
 
 ---
 
-🌱 I’m currently learning ...
-
-⚡ My background is in ...
+🌱 Currently learning and practicing Excel & Tableau\
+⚡ My background is Financial Technology with 2+ years experience 
 
 ### Skills 
 
 ---
 
-Programming Language: SQL, Python (Basic)
-Data Analysis & Visualization: Excel, Pandas, Matplotlib, Tableau
-Database Management: PostgreSQL
+**Programming Language:** SQL, Python (Basic)\
+**Data Analysis & Visualization:** Excel, Pandas, Matplotlib, Apache Spark, Tableau\
+**Database Management:** PostgreSQL
